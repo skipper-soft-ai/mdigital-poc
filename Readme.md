@@ -3,6 +3,8 @@
 This project is developed to demonstrate basic features of Browserstack 'Automate' platform
 
 ## Prerequisites
+You should be a registered Browserstack user (Automate platform).
+You should get a username and an accesskey from browserstack portal
 
 To work with the project you should have `NodeJS` and `npm` installed.
 It's tested with `NodeJS v19.5.0` and `npm 9.3.1`
