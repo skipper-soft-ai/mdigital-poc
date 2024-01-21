@@ -1,0 +1,12 @@
+userName: [YOUR USER NAME]
+accessKey: [YOUR ACCESS KEY]
+parallelsPerPlatform: 2
+platforms:
+  - deviceName: Samsung Galaxy S23 Ultra
+    browserName: chrome
+    osVersion: 13.0
+    hasTouch: true
+    interactiveDebugging: true
+    playwrightConfigOptions:
+      isMobile: true
+      hasTouch: true
