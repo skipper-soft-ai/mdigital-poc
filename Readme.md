@@ -11,7 +11,7 @@ It's tested with `NodeJS v19.5.0` and `npm 9.3.1`
 
 ## Building the project
 
-* Run `npm install` from the root folder
+* Run `npm install` from the project root folder
 * run `npx playwright install` to install browser engines
 
 ## Configuring
